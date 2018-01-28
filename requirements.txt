@@ -24,15 +24,11 @@ idna==2.1
 imaplib2==2.45.0
 ipaddress==1.0.16
 itsdangerous==0.24
-libgmail==0.1.11
 mechanize==0.2.5
 menuinst==1.4.7
-mysql-connector-python==2.1.6
 networkx==2.1
-numpy==1.14.0
 oauth2client==2.1.0
 packaging==16.8
-paramiko==1.16.0
 pyOpenSSL==16.0.0
 pyasn1==0.1.9
 pyasn1-modules==0.0.8
@@ -52,7 +48,6 @@ rsa==3.4.2
 ruamel.ordereddict==0.4.9
 ruamel.yaml==0.11.10
 scapy==2.3.2
-selenium==2.53.6
 simplejson==3.8.2
 singledispatch==3.4.0.3
 six==1.10.0
@@ -61,4 +56,3 @@ tornado==4.5.3
 uritemplate==0.6
 virtualenv==15.1.0
 wheel==0.29.0
-zmq==0.0.0
