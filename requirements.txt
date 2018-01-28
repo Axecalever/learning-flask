@@ -25,7 +25,6 @@ imaplib2==2.45.0
 ipaddress==1.0.16
 itsdangerous==0.24
 mechanize==0.2.5
-menuinst==1.4.7
 networkx==2.1
 oauth2client==2.1.0
 packaging==16.8
