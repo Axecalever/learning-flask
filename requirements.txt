@@ -3,8 +3,6 @@ Flask==0.12.2
 Jinja2==2.8
 Pillow==3.2.0
 PyAudio==0.2.9
-PyScreeze==0.1.8
-PyTweening==1.0.3
 PyYAML==3.11
 SpeechRecognition==3.4.6
 Werkzeug==0.14.1
