@@ -38,9 +38,7 @@ pyparsing==2.1.4
 python-dateutil==2.6.1
 pyttsx==1.1
 pytz==2017.3
-pywin32==220
 pyzmail==1.0.2
-pyzmq==16.0.4
 requests==2.14.2
 rsa==3.4.2
 ruamel.ordereddict==0.4.9
@@ -49,7 +47,6 @@ scapy==2.3.2
 simplejson==3.8.2
 singledispatch==3.4.0.3
 six==1.10.0
-splinter==0.7.4
 tornado==4.5.3
 uritemplate==0.6
 virtualenv==15.1.0
