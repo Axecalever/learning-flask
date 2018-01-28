@@ -37,8 +37,6 @@ pyttsx==1.1
 pytz==2017.3
 requests==2.14.2
 rsa==3.4.2
-ruamel.ordereddict==0.4.9
-ruamel.yaml==0.11.10
 simplejson==3.8.2
 singledispatch==3.4.0.3
 six==1.10.0
